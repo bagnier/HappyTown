@@ -30,7 +30,7 @@ Lancer Code.
 
 Nous allons utiliser des extensions de Code pour faciliter la programmation en Python.
 
-Trouver l'icone extensions, rechercher "python" et installer le premier esultat, packagé par *Microsoft*.
+Trouver l'icone extensions, rechercher "python" et installer le premier resultat, packagé par *Microsoft*.
 
 ![extensions dans Visual Studio Code](img/installationExtensions.png)
 
