@@ -38,6 +38,7 @@ Trouver l'icone extensions, rechercher "python" et installer le premier resultat
 ## vérifier les installations
 
 à ce stade, Code devrait afficher ceci :
+
 ![get started](img/getStarted.png)
 
 cliquer le bouton "Create Python File"
