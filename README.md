@@ -54,9 +54,21 @@ puis lancer l'execution de ce premier code en python en cliquant sur l'icone de 
 
 Code devrait ouvrir un terminal affichant le lancement de python sur le fichier et le resultat de son execution - afficher "ready" :
 ```
-PS C:\Users\...\HappyTown> & C:/Users/.../AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/.../HappyTown/go.py
+PS C:\Users\...\HappyTown> &
+C:/Users/.../AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/.../HappyTown/go.py
 ready
 ```
+
+
+## Un problème ? 
+
+peut-être faut il contourner un proxy !
+
+```
+PS C:\Users\...\HappyTown> &
+pip config set global.proxy http://mon.proxy.à.moi.que.jai
+```
+
 
 ## Voilà ! c'est pret !!
 
