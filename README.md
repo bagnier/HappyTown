@@ -1,12 +1,14 @@
 ![hello](img/city.jpeg)
-# bienvenue Happy Town
+# bienvenue à Happy Town
 
-Ceci est le point de départ de votre formation d'initiation à la programmation en utilisant le langage *Python*.
+Ceci est le point de départ de votre formation d'initiation à la programmation en utilisant le langage *Python*. Apprendre à programmer, c'est comme debarquer à un nouvel endroit et se faire de nouveaux amis.
 
 
-## installation de Python
+## installations
 
-Sous Windows 10, Python est disponible dans le *Microsoft Store*, pret à être installé.
+### installation de Python
+
+Sous Windows 10+, Python est disponible dans le *Microsoft Store*, pret à être installé.
 
 Dans le menu démarrer, rechercher "python" ou "store" puis "python". Lancer l'installation.
 
@@ -15,16 +17,16 @@ Lancer l'installation.
 ![Python dans le Microsoft Store](img/installationPython.png)
 
 
-## installation de Visual Studio Code
+### installation de Visual Studio Code
 
-Nous allons employé un éditeur de texte spécialisé pour coder : *Visual Studio Code* - ou pour faire court *Code*. Sous Windows 10, Code est disponible dans le Microsoft Store, pret à être installé.
+Nous allons employé un éditeur de texte spécialisé pour coder : *Visual Studio Code* - ou pour faire court *Code*. Sous Windows 10+, Code est disponible dans le Microsoft Store, pret à être installé.
 
 Dans le store, recherchez "Visual Studio Code". Lancer l'installation.
 
 ![Visual Studio Code dans le Microsoft Store](img/installationCode.png)
 
 
-## installation des extensions
+### installation des extensions
 
 Lancer Code.
 
@@ -35,7 +37,7 @@ Trouver l'icone extensions, rechercher "python" et installer le premier resultat
 ![extensions dans Visual Studio Code](img/installationExtensions.png)
 
 
-## vérifier les installations
+### vérifier les installations
 
 à ce stade, Code devrait afficher ceci :
 
@@ -60,16 +62,16 @@ ready
 ```
 
 
-## Un problème ? 
+### Un problème ? 
 
 peut-être faut il contourner un proxy !
 
 ```
 PS C:\Users\...\HappyTown> &
-pip config set global.proxy http://mon.proxy.à.moi.que.jai
+pip config set global.proxy http://mon.proxy.à.moi.que.j.ai
 ```
 
 
-## Voilà ! c'est pret !!
+### Voilà ! c'est pret !!
 
-# [Commencer le voyage](HappyTown.ipynb)
+## [Commencer le voyage...](HappyTown.ipynb)
