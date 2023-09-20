@@ -1,5 +1,5 @@
 ![hello](img/city.jpeg)
-# bienvenue à Happy Town
+# bienvenue Happy Town
 
 Ceci est le point de départ de votre formation d'initiation à la programmation en utilisant le langage *Python*. Apprendre à programmer, c'est comme debarquer à un nouvel endroit et se faire de nouveaux amis.
 
